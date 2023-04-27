@@ -7,8 +7,8 @@ Embedded Systems Engineer
 I'm an Ambitious Mechatronics Engineer, creative minded and result-oriented individual. Seeking the role of an Embedded Systems Engineer to strengthen my knowledge and satisfy my passion.
 
 * 🌍  I'm based in Abu Dhabi, UAE
-* 🖥️  See my portfolio at [My Portfolio](http://mahmoudnage7.editorx.io/portfolio)
-* ✉️  You can contact me at [mahmoudnage7@hotmail.com](mahmoudwael168@gmail.com)
+* 🖥️  See my portfolio at [My Portfolio](https://www.notion.so/Arab-Geek-5aaf1dfbac9b4d0098d438c3e5852575)
+* ✉️  You can contact me at [mahmoudwael168@gmail.com](mahmoudwael168@gmail.com)
 * 🧠  I'm learning Robotics and ROS
 * 🤝  I'm open to collaborating on Embedded Systems Projects
 * ⚡  Don't tell anyone but I'm procrastinating from creating my own game by playing video games
