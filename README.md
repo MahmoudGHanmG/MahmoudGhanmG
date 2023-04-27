@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmoud Nageh
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmoud Ghanm
 =====================================================================================================================================
 
 Embedded Systems Engineer
@@ -8,7 +8,7 @@ I'm an Ambitious Mechatronics Engineer, creative minded and result-oriented indi
 
 * 🌍  I'm based in Abu Dhabi, UAE
 * 🖥️  See my portfolio at [My Portfolio](http://mahmoudnage7.editorx.io/portfolio)
-* ✉️  You can contact me at [mahmoudnage7@hotmail.com](mailto:mahmoudnage7@hotmail.com)
+* ✉️  You can contact me at [mahmoudnage7@hotmail.com](mahmoudwael168@gmail.com)
 * 🧠  I'm learning Robotics and ROS
 * 🤝  I'm open to collaborating on Embedded Systems Projects
 * ⚡  Don't tell anyone but I'm procrastinating from creating my own game by playing video games
@@ -31,7 +31,7 @@ I'm an Ambitious Mechatronics Engineer, creative minded and result-oriented indi
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MahmoudNageh"><img src="https://github-readme-stats.vercel.app/api?username=MahmoudNageh&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MahmoudNageh's GitHub stats" /></a>
+<a href="http://www.github.com/MahmoudGHanmG"><img src="https://github-readme-stats.vercel.app/api?username=MahmoudGhanm&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MahmoudNageh's GitHub stats" /></a>
 
 <b>Top Repositories</b>
 
